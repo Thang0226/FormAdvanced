@@ -1,4 +1,68 @@
 body {
-    padding-left: 50px;
-    padding-top: 20px;
+    padding: 20px;
+}
+
+div {
+    width: 50%;
+    background-color: aliceblue;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    font-family: Arial;
+    color: blue;
+    margin-bottom: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    width:500px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: Arial;
+}
+
+th {
+    height: 25px;
+}
+
+td {
+    border: 2px solid gray;
+    padding: 3px;
+    height: 30px;
+    font-size: large;
+}
+
+.th1 {
+    border: 1px solid white;
+    color: white;
+    background-color: orange;
+}
+
+.th2 {
+    font-weight: normal;
+}
+
+.sun {
+    color: red;
+}
+
+.sat {
+    color: blue;
+}
+
+.sun1 {
+    background-color: red;
+}
+
+.sat1 {
+    background-color: blue;
+}
+
+sub {
+    font-size:0.5em;
+    color: black;
 }
