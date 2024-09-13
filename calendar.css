@@ -18,7 +18,7 @@ h2 {
 
 table {
     border-collapse: collapse;
-    width:500px;
+    width:490px;
     margin: 0 auto;
     margin-bottom: 20px;
     text-align: center;
@@ -27,6 +27,8 @@ table {
 
 th {
     height: 25px;
+    width: 70px;
+    padding: 3px;
 }
 
 td {
